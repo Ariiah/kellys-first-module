@@ -1,0 +1,23 @@
+{
+  "name": "kellys-first-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "geo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ariiah/kellys-first-module.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ariiah/kellys-first-module/issues"
+  },
+  "homepage": "https://github.com/Ariiah/kellys-first-module#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
