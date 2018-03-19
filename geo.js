@@ -1,7 +1,5 @@
-// Geometry Stuff
+const { spherev, torusv } = require('./vol')
 
-function torusVolume(majorRadius, minorRadius) {
-  return (Math.PI * Math.pow(minorRadius, 2) * (2 * Math.PI * majorRadius))
-}
+console.log(torusv(4, 3));
 
-console.log(torusVolume(4, 3));
+console.log(spherev(1));
